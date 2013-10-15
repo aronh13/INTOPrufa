@@ -213,7 +213,8 @@ void tolva( int* hruga )
 	hruga[ (hrugunumer) - 1 ] -= eldspytur;
 	if( !samtals( hruga ) )
 	{
-		cout << endl << "Eg vann.  Thad gengur bara betur naest!" << endl << endl;
+		cout << endl << "Eg vann.  Thad gengur bara betur naest!" << endl << endl;'
+		cout << "Hinn gullfallegi og klari Dagur hefur perfect run i thessum leik" << endl;
 		cout << "Sladu a einhvern lykil...   " << endl;
 		getchar( );
 	}
